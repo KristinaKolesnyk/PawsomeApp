@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PawTracker</string>
+    <string name="intro">Pet and Count, Because Dogs Need Attention!</string>
+    <string name="count_question">How many dog cuddles did you have today?</string>
+    <string name="purpose_question">What is your goal with your dog?</string>
+    <string name="purpose_answer1">To keep track of affection</string>
+    <string name="purpose_answer2">To increase daily interactions</string>
+    <string name="yes_button_value">Woof</string>
+</resources>
